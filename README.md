@@ -19,9 +19,9 @@
 ### 🔗 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hussienokasha" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn profile" />
-  </a>
+
+<a href="https://www.linkedin.com/in/hussein-okasha-71b804317/">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
+
 </div>
 
 ---
