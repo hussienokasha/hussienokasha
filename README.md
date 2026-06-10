@@ -99,4 +99,4 @@
 ---
 ## 💡 Quote I Believe In
 
-> "Clean code always wins in the long run."
+> "Consistency is more important than quantity."
