@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm Hussein 👋</h1>
 
-<h3 align="center">Front-End Developer (Angular) | .NET Enthusiast | Building Scalable Web Applications</h3>
+<h3 align="center">Front-End Developer | (Angular) | .NET | Building Scalable Web Applications</h3>
 
 ---
 
